@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/Terebi42/unraid-asustor-pfd/main/unraid-asustorpfd.plg</PluginURL>
+  <PluginAuthor>Terebi42</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Productivity: Tools:System Drivers:</Category>
+  <Name>asustor Platform Drivers</Name>
+  <Description>This package contains the asustor Platform Drivers and installs them, a reboot is required after installing the plugin.&#xD;
+&#xD;
+Source: https://github.com/mafredri/asustor-platform-driver</Description>
+  <Support>https://forums.unraid.net/</Support>
+  <Icon>https://raw.githubusercontent.com/Terebi42/unraid-asustor-pfd/main/images/asustor.png</Icon>
+</Containers>
