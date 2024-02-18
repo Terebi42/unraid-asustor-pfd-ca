@@ -8,6 +8,6 @@
   <Description>This package contains the asustor Platform Drivers and installs them, a reboot is required after installing the plugin.&#xD;
 &#xD;
 Source: https://github.com/mafredri/asustor-platform-driver</Description>
-  <Support>https://forums.unraid.net/</Support>
+  <Support>https://forums.unraid.net/topic/154177-asustor-platform-drivers/</Support>
   <Icon>https://raw.githubusercontent.com/Terebi42/unraid-asustor-pfd/main/images/asustor.png</Icon>
 </Containers>
